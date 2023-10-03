@@ -1,0 +1,41 @@
+{
+  "name": "angeloact",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-community/slider": "^4.4.3",
+    "@react-native-picker/picker": "^2.5.1",
+    "@react-navigation/native": "^6.1.8",
+    "@react-navigation/stack": "^6.3.18",
+    "expo": "~49.0.13",
+    "expo-location": "~16.1.0",
+    "expo-speech": "~11.3.0",
+    "expo-status-bar": "~1.6.0",
+    "lottie-react-native": "5.1.6",
+    "react": "18.2.0",
+    "react-native": "0.72.5",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-maps": "1.7.1",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-swiper": "^1.6.0",
+    "react-native-toast-message": "^2.1.6",
+    "react-native-webview": "13.2.2",
+    "react-slider": "^2.0.6",
+    "react-svg": "^16.1.27",
+    "expo-av": "~13.4.1",
+    "react-native-pager-view": "6.2.0",
+    "expo-video-thumbnails": "~7.4.0",
+    "react-native-svg": "13.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
